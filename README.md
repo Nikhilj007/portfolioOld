@@ -9,3 +9,5 @@ for now, i now:
 1. Java
 1. HTML
 1. CSS
+
+I am currently pursuing b.tech from Panjab University.

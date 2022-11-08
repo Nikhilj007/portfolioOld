@@ -38,6 +38,9 @@ hr{
     border: 1px solid var(--primary-color);
 
 }
+ .container a:hover{
+    background-color: #360854;
+}
 .list-non-bullet{
     list-style: none;
 }

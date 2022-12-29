@@ -107,3 +107,9 @@ footer{
 .footer ul{
     padding-inline-start: 0px;
 }
+@media all and(max-width:460px) {
+    .section .link-secondary{
+        margin-top: 5rem;
+    }
+    
+}

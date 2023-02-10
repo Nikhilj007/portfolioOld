@@ -19,6 +19,13 @@ hr{
     max-width: 600px;
     margin: auto;
 }
+
+.flex{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
 .link{
     text-decoration: none;
     padding: 0.5rem 1rem;
